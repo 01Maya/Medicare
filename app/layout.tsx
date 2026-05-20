@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Medicare - Premium Healthcare',
-  description: 'Premium modern healthcare platform offering patient-centered medical services',
+  description: 'Premium modern healthcare platform offering patient-centered medical services🎗️',
 }
 
 export default function RootLayout({
