@@ -9,3 +9,6 @@ The website delivers a futuristic healthcare experience with interactive section
 
 ## Description
 
+This healthcare website is inspired by premium SaaS and modern medical platform designs with a focus on accessibility, trust, and visual consistency.  
+It includes animated hero sections, interactive doctor showcases, healthcare analytics cards, smooth navigation effects, and responsive layouts for all devices.  
+The overall design emphasizes soft purple gradients, glassmorphism elements, premium spacing, hover interactions, and immersive user experiences.
