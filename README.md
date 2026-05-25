@@ -6,3 +6,6 @@ Medicare is a modern premium healthcare landing page designed with elegant UI/UX
 The website delivers a futuristic healthcare experience with interactive sections, soft gradients, animated cards, and visually engaging components.
 
 ---
+
+## Description
+
