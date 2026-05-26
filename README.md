@@ -23,3 +23,6 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 - Hover Effects & Interactive UI
 - Modern Glassmorphism Design
 - Animated Gradient Backgrounds
+- Floating Blob Animations
+- Premium Doctor Carousel
+- Responsive Mobile Carousel
