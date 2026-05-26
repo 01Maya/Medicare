@@ -19,3 +19,5 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 
 - Fully Responsive Design
 - Smooth Scroll Navigation to Sections
+- Elegant Scroll Reveal Animations
+- Hover Effects & Interactive UI
