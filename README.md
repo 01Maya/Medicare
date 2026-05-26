@@ -26,3 +26,6 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 - Floating Blob Animations
 - Premium Doctor Carousel
 - Responsive Mobile Carousel
+- Animated Counter Statistics
+- Floating Healthcare Cards
+- Smooth Ease-In-Out Transitions
