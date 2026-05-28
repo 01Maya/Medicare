@@ -41,3 +41,6 @@ Sticky responsive navigation bar with smooth scrolling links and premium gradien
 
 ### Hero Section
 Displays the main healthcare headline with animated images, floating cards, and gradient effects.
+
+### About Us
+Shows experience, happy clients, healthcare statistics, and animated medical dashboard cards.
