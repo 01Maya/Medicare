@@ -38,3 +38,6 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 
 ### Navbar
 Sticky responsive navigation bar with smooth scrolling links and premium gradient buttons.
+
+### Hero Section
+Displays the main healthcare headline with animated images, floating cards, and gradient effects.
