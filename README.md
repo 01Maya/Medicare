@@ -31,3 +31,5 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 - Smooth Ease-In-Out Transitions
 - Sticky Responsive Navbar
 - Animated CTA Sections
+
+---
