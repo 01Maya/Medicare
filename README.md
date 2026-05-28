@@ -33,3 +33,5 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 - Animated CTA Sections
 
 ---
+
+# Sections
