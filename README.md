@@ -52,3 +52,4 @@ Highlights healthcare goals, patient engagement, accessibility, and core values 
 Interactive doctor carousel with hover animations and detailed doctor information modal.
 
 ### Vision / Services Section
+Displays healthcare services and specialties using responsive animated service cards.
