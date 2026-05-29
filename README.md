@@ -44,3 +44,10 @@ Displays the main healthcare headline with animated images, floating cards, and 
 
 ### About Us
 Shows experience, happy clients, healthcare statistics, and animated medical dashboard cards.
+
+### Mission Section
+Highlights healthcare goals, patient engagement, accessibility, and core values with premium visuals.
+
+
+
+
