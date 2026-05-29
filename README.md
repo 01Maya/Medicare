@@ -49,5 +49,6 @@ Shows experience, happy clients, healthcare statistics, and animated medical das
 Highlights healthcare goals, patient engagement, accessibility, and core values with premium visuals.
 
 ### Doctors Section
+Interactive doctor carousel with hover animations and detailed doctor information modal.
 
 
