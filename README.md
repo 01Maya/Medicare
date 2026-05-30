@@ -63,3 +63,6 @@ Newsletter subscription section with clean responsive form and interactive butto
 ### Footer
 Minimal light-themed footer containing navigation links, company details, and social icons.
 
+---
+
+
