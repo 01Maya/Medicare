@@ -58,6 +58,8 @@ Displays healthcare services and specialties using responsive animated service c
 Premium gradient call-to-action banner encouraging users to connect and explore services.
 
 ### Contact Section
+Newsletter subscription section with clean responsive form and interactive button effects.
+
 
 
 
