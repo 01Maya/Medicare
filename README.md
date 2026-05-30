@@ -34,7 +34,7 @@ The overall design emphasizes soft purple gradients, glassmorphism elements, pre
 
 ---
 
-# Sections
+# Sections 🗂️
 
 ### Navbar
 Sticky responsive navigation bar with smooth scrolling links and premium gradient buttons.
