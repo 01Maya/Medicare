@@ -61,5 +61,5 @@ Premium gradient call-to-action banner encouraging users to connect and explore 
 Newsletter subscription section with clean responsive form and interactive button effects.
 
 ### Footer
-
+Minimal light-themed footer containing navigation links, company details, and social icons.
 
