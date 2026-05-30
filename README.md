@@ -60,6 +60,6 @@ Premium gradient call-to-action banner encouraging users to connect and explore 
 ### Contact Section
 Newsletter subscription section with clean responsive form and interactive button effects.
 
-
+### Footer
 
 
