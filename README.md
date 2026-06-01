@@ -71,3 +71,4 @@ Minimal light-themed footer containing navigation links, company details, and so
 - Tailwind CSS
 - Framer Motion
 - Shadcn UI
+- Lucide React
