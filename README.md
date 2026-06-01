@@ -81,3 +81,6 @@ Minimal light-themed footer containing navigation links, company details, and so
 https://medicare-life.vercel.app/
 
 ---
+
+# Screenshot
+
