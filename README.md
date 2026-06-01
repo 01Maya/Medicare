@@ -73,3 +73,5 @@ Minimal light-themed footer containing navigation links, company details, and so
 - Shadcn UI
 - Lucide React
 - TypeScript
+
+---
