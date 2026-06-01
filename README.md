@@ -69,5 +69,5 @@ Minimal light-themed footer containing navigation links, company details, and so
 
 - Next.js
 - Tailwind CSS
--Framer Motion
+- Framer Motion
 - Shadcn UI
