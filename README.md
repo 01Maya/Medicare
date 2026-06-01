@@ -82,5 +82,5 @@ https://medicare-life.vercel.app/
 
 ---
 
-# Screenshot
+# Screenshot 📸
 
