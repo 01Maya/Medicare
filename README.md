@@ -72,3 +72,4 @@ Minimal light-themed footer containing navigation links, company details, and so
 - Framer Motion
 - Shadcn UI
 - Lucide React
+- TypeScript
