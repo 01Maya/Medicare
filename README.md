@@ -65,7 +65,7 @@ Minimal light-themed footer containing navigation links, company details, and so
 
 ---
 
-# Tech Stack
+# Tech Stack 💪🏻
 
 - Next.js
 - Tailwind CSS
