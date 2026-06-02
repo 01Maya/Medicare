@@ -121,3 +121,8 @@ http://localhost:3000
 ```
 
 ---
+
+
+# Author
+
+Designed & Developed with a modern premium healthcare UI approach by Maya :)
