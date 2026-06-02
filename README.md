@@ -88,3 +88,36 @@ https://medicare-life.vercel.app/
 
 ---
 
+# Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/your-username/medicare-healthcare.git
+```
+
+## Navigate to Project
+
+```bash
+cd medicare-healthcare
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Run Development Server
+
+```bash
+npm run dev
+```
+
+## Open in Browser
+
+```bash
+http://localhost:3000
+```
+
+---
