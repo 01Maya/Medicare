@@ -88,7 +88,7 @@ https://medicare-life.vercel.app/
 
 ---
 
-# Installation
+# Installation ⚙️
 
 ## Clone Repository
 
